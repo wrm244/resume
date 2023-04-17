@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/assets/images/social/about.svg","6845e36834fd015664a2148f218d2d46"],["/assets/images/social/avatar.jpg","19a2f45d91ae1e1893b372c896c7dbdc"],["/assets/images/social/avatar.png","6dcd0f8e4167764e124e821a9ffc936e"],["/assets/images/social/github.svg","ad426740cec22b2e74d8009f3e65666f"],["/assets/images/social/music.svg","cc8085e0c2d6776a1dfc598f7c5d8fe6"],["/assets/images/social/rss.svg","18126ce8c14b28696a4936d1c03de8b6"],["/index.html","d41d8cd98f00b204e9800998ecf8427e"],["/zh-cn/index.html","d41d8cd98f00b204e9800998ecf8427e"]];
+var precacheConfig = [["/assets/images/social/about.svg","6845e36834fd015664a2148f218d2d46"],["/assets/images/social/avatar.jpg","19a2f45d91ae1e1893b372c896c7dbdc"],["/assets/images/social/avatar.png","6dcd0f8e4167764e124e821a9ffc936e"],["/assets/images/social/github.svg","ad426740cec22b2e74d8009f3e65666f"],["/assets/images/social/music.svg","cc8085e0c2d6776a1dfc598f7c5d8fe6"],["/assets/images/social/rss.svg","18126ce8c14b28696a4936d1c03de8b6"],["/css/page.css","f2c68767de1a1229ac976877f80142ed"],["/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/css/vue-pdf.css","ce6721584104e3003c7e6e42222af923"],["/index.html","6d3b01d69f1c3f5a6bffd7882029a4dd"],["/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/zh-cn/index.html","c78cfe0f2624f97287eda6c4a47a58e9"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
