@@ -154,7 +154,7 @@ strong {
 
 code,
 pre {
-    font-family: Menlo, Monaco, courier, monospace, Arial, sans-serif;
+    font-family: 'SF Pro Text','SF Pro Display',Menlo, Monaco, courier, monospace, Arial, sans-serif;
     font-size: .8em;
     -webkit-font-smoothing: initial;
     -moz-osx-font-smoothing: initial
@@ -615,7 +615,7 @@ body.docs #nav {
     height: 16px;
     font-size: 9px;
     font-weight: 700;
-    font-family: Menlo, Monaco, courier, monospace, Arial, sans-serif;
+    font-family: 'SF Pro Text','SF Pro Display',Menlo, Monaco, courier, monospace, Arial, sans-serif;
     padding: 1px 4px 0 6px;
     border-radius: 4px
 }
@@ -645,7 +645,7 @@ body.docs #nav {
     font-size: 1.8em;
     line-height: 40px;
     color: rgba(33, 150, 243, .9);
-    font-family: Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif, cursive;
+    font-family: 'SF Pro Text','SF Pro Display',Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif, cursive;
     font-weight: 500
 }
 
@@ -674,7 +674,7 @@ body.docs #nav {
 }
 
 #mobile-bar .nav-title {
-    font-family: Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'SF Pro Text','SF Pro Display',Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif;
     font-size: 1.1em;
     line-height: 52px;
     color: #2c3e50;
