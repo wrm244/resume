@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/resume/*"
-  to = "/:splat"
-  status = 200
