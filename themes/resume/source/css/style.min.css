@@ -1877,3 +1877,4 @@ sup {
 .content btns[rounded]>a>img:first-child {
     border-radius: 12px
 }
+@import "local.google.fonts.css";
