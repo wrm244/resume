@@ -42,8 +42,7 @@ download:
 
 ## <i class="fas fa-flag"></i> Self Summary
 
-Currently an undergraduate student majoring in Computer Science and Technology. Passionate about computer-related technologies and intend to develop in this direction for a long time. 
-Continuously paying attention to the development of computer technology, actively participating in school laboratory projects, mastering professional knowledge such as programming languages and algorithms, familiar with computer systems and networks, understanding the basic principles of operating systems and machine learning, and able to use computer technology to solve practical problems. Interested in technological innovation, with good logical thinking ability and willing to communicate.
+I am an undergraduate student majoring in Computer Science and Technology, with a strong passion for computer-related industries and an intention to pursue this field for a long time. I keep abreast of the latest developments in computer technology, regularly participate in school laboratory projects, and have acquired expertise in programming languages, algorithms and computer systems and networks. I have a solid grasp of the basic principles of operating systems and machine learning, and am adept at using computing technology for practical problem solving. I am also keenly interested in technological innovation, possess good logical thinking skills and enjoy collaborating with others.
 During school, joined media and social science clubs and laboratory learning projects, ranked high in grades, participated in multiple competitions and won awards.
 
 ## <i class="fas fa-user-graduate"></i> Education Background
