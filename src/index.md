@@ -111,10 +111,11 @@ download:
 
 
 
+## 评论
 {% raw %}
 <script src="https://utteranc.es/client.js"
-        repo="wrm244/ResumeComments"
-        issue-number="17"
+        repo="wrm244/wrm244.github.io"
+        issue-number="9"
         theme="github-light"
         crossorigin="anonymous"
         async>

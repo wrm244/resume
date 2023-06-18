@@ -106,11 +106,11 @@ During school, joined media and social science clubs and laboratory learning pro
 ``WeChat`` [wrm244](weixin://contacts/profile/wrm244)
 
 
-
+## Comments
 {% raw %}
 <script src="https://utteranc.es/client.js"
-        repo="wrm244/ResumeComments"
-        issue-number="17"
+        repo="wrm244/wrm244.github.io"
+        issue-number="9"
         theme="github-light"
         crossorigin="anonymous"
         async>
