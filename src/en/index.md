@@ -11,7 +11,6 @@ name: RiverMountain
 avatar: /resume/assets/images/social/avatar.png
 # Contact
 contact:
-  # URL
   - icon: fas fa-globe-europe
     text: wrm244.gxist.cn
     url: https://wrm244.gxist.cn
@@ -20,12 +19,16 @@ contact:
     url: https://github.com/wrm244
   # Email
   - icon: fas fa-envelope
-    text: wrm244@139.com
-    url: mailto:wrm244@139.com
+    text: wrm244@qq.com
+    url: mailto:wrm244@qq.com
+  # Phone Number
+  - icon: fas fa-comments
+    text: wrm244
+    url: weixin://contacts/profile/wrm244
   # Phone Number
   - icon: fas fa-phone-alt
-    text: '+8615260135211'
-    url: tel:+8615260135211
+    text: 15260135211
+    url: tel:15260135211
 # PDF Download Link
 download:
   title: Download
@@ -47,52 +50,60 @@ During school, joined media and social science clubs and laboratory learning pro
 
 ## <i class="fas fa-user-graduate"></i> Education Background
 
-``2020.9 - 2024.7`` Guilin University of Electronic Technology School of Computer Science and Information Security ``Bachelor of Computer Science and Technology``
+``2020.9 - 2024.7`` **Guilin University of Electronic Technology** School of Computer Science and Information Security ``Bachelor of Computer Science and Technology``
 
 > GPA: ``3.4/4`` Ranking: Top ``40%``
 > Relevant courses: Computer Networks (85) / Operating Systems (82) / Data Structures and Algorithms (85)
 
 ## <i class="fas fa-star"></i> Personal Skills
 
-``Language skills``: English (CET-4)
-``Professional skills``: Familiar with front-end and back-end frameworks such as Node and SSM; proficient in Linux operation and maintenance, Nginx processing logic, mastering containerization and service deployment technology. Familiar with design and office software such as PS and AI.
-``Personal hobbies``: Like to explore new things, like to write articles, have own website public number, reading books, writing BUGs, etc.
+``Programming`` Java, Python, JavaScript, C, Shell, LaTex
+``Tools`` VScode, Git, SSH, Vim, Nginx, Zotero, PS, AI
+``Software and Hardware Frameworks`` Raspberry Pi, STM32, Linux, Nodejs, SSM
+``Professional Skills`` Familiar with front-end and back-end frameworks such as Node and SSM; proficient in Linux operation and maintenance, Nginx processing logic, containerization and service deployment technology. Familiar with design and office software such as PS and AI.
+``Language and Hobbies`` English (CET-4), like to explore new things, like to write articles, have own website and public account, read books, write BUGs and so on.
 
 ## <i class="fas fa-user-tie"></i> Campus Experience
 
-``2021.10 - present`` IST Intelligent Laboratory
+> ``2021.10 - present`` **IST Intelligent Laboratory**
 > Mainly responsible for laboratory services and competition management, participating in the design of laboratory innovation projects
 > 1.Successfully organized the third Guangxi Artificial Intelligence Design Competition, responsible for posters and materials, track management (2022)
 > 2.Participated in the second Guangxi Artificial Intelligence Design Competition and won the provincial first prize (2021)
 > 3.Participated in national innovation and entrepreneurship projects
 
-``2021.09 - 2022.09`` Computer Science and Information Security 2020 Grade Committee ``Propaganda Department Minister``
+> ``2021.09 - 2022.09`` **Computer Science and Information Security 2020 Grade Committee** ``Propaganda Department Minister``
 
-``2020.11 - 2021.08`` College Student Innovation and Entrepreneurship Base ``Technical Hardware Department Project Member``
+> ``2020.11 - 2021.08`` **College Student Innovation and Entrepreneurship Base** ``Technical Hardware Department Project Member``
 > Practice major, participate in innovation and entrepreneurship projects
 > Participated as the leader of the school base innovation training project team (2021), with excellent results
 
-``2020.10 - 2022.02`` College Media Center ``Editorial Committee Member``
+> ``2020.10 - 2022.02`` **College Media Center** ``Editorial Committee Member``
 > Responsible for following up on college activities, writing articles and publicity; participating in media design competitions
 
 ## <i class="fas fa-cubes"></i> Project Experience
-``2022.03 - 2023.7`` Innovation Project Research on Target Detection Algorithm Based on Image and Multi-Sensor Information Fusion
-> Responsible for writing and revising papers
+
+> ``2022.03 - 2024.5`` **National-level Innovation Project** **Research on Target Detection Algorithm Based on Image and Multi-sensor Information Fusion**
+> Responsible for method testing and paper writing and revision
+
+> ``2022.03 - 2023.5`` **District-level Innovation Project** **Intelligent Safe Driving Assurance System Based on Deep Learning and Internet of Things Technology**
+> Responsible for project content improvement and material writing
 
 ## <i class="fas fa-award"></i> Honors & Awards
 
-``2022.10`` National College Student Mathematical Modeling Contest ``Provincial Second Prize``
+> ``2022.10`` **National College Student Mathematical Modeling Contest** ``Provincial Second Prize``
 
-``2021.11`` The 12th Lanqiao Cup National Software and Information Technology Professional Talent Competition ``Provincial First Prize``
+> ``2021.11`` **The 12th Lanqiao Cup National Software and Information Technology Professional Talent Competition** ``Provincial First Prize``
 
 ## <i class="fas fa-book"></i> Paper Publication
 
+> ``Paper`` AcFusion: Infrared and visible image fusion base on self-attention and convolution with enhanced information extraction
+> ``Contribution`` Editing, Visualization & review
 
 ## <i class="fas fa-phone-alt"></i> Contact Me
 
-email: [wrm244@139.com](mailto:wrm244@139.com)
-phone: 15260135211
-
+``Email`` [wrm244@qq.com](mailto:wrm244@qq.com)
+``Phone``: [15260135211](tel:15260135211)
+``WeChat``：[wrm244](weixin://contacts/profile/wrm244)
 
 
 <!-- ## Comments -->

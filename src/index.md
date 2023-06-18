@@ -22,6 +22,10 @@ contact:
     text: wrm244@qq.com
     url: mailto:wrm244@qq.com
   # Phone Number
+  - icon: fas fa-comments
+    text: wrm244
+    url: weixin://contacts/profile/wrm244
+  # Phone Number
   - icon: fas fa-phone-alt
     text: 15260135211
     url: tel:15260135211
@@ -56,9 +60,9 @@ download:
 
 ``编程``Java，Python，JavaScript，C，Shell，LaTex
 ``工具`` VScode，Git，SSH，Vim，Nginx，Zotero，PS，AI
-``软硬框架`` Raspberry Pi，STM32，Linux，Node，SSM
-``专业技能``：熟悉Node、SSM等前端后端框架；熟练掌握Linux运维、Nginx处理逻辑掌握容器化与服务部署技术。熟悉PS、AI等设计与办公软件。
-``语言爱好`` ：英语(CET-4)，喜欢探索新事物、喜欢写文章、有自己网站公众号，看书、写BUG等。
+``软硬框架`` Raspberry Pi，STM32，Linux，Nodejs，SSM
+``专业技能`` 熟悉Node、SSM等前端后端框架；熟练掌握Linux运维、Nginx处理逻辑掌握容器化与服务部署技术。熟悉PS、AI等设计与办公软件。
+``语言爱好``  英语(CET-4)，喜欢探索新事物、喜欢写文章、有自己网站公众号，看书、写BUG等。
 
 ## <i class="fas fa-user-tie"></i> 校园经历
 
@@ -96,13 +100,14 @@ download:
 
 ## <i class="fas fa-book"></i> 论文发表
 
-> ``Paper``: AcFusion: Infrared and visible image fusion base on self-attention and convolution with enhanced information extraction
-> ``Contribution``: Editing, Visualization & review
+> ``Paper`` AcFusion: Infrared and visible image fusion base on self-attention and convolution with enhanced information extraction
+> ``Contribution`` Editing, Visualization & review
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-email: [wrm244@139.com](mailto:wrm244@139.com)
-phone: [15260135211](tel:15260135211)
+``电子邮件`` [wrm244@qq.com](mailto:wrm244@qq.com)
+``手机联系``: [15260135211](tel:15260135211)
+``微信号``：[wrm244](weixin://contacts/profile/wrm244)
 
 <!-- ## 评论
 
