@@ -113,7 +113,7 @@ download:
 
 {% raw %}
 <script src="https://utteranc.es/client.js"
-        repo="wrm244/resume"
+        repo="wrm244/ResumeComments"
         issue-number="17"
         theme="github-light"
         crossorigin="anonymous"
