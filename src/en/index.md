@@ -106,7 +106,6 @@ During school, joined media and social science clubs and laboratory learning pro
 ``WeChat`` [wrm244](weixin://contacts/profile/wrm244)
 
 
-## Comments -->
 
 {% raw %}
 <script src="https://utteranc.es/client.js"
