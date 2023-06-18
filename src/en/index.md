@@ -82,10 +82,10 @@ During school, joined media and social science clubs and laboratory learning pro
 
 ## <i class="fas fa-cubes"></i> Project Experience
 
-> ``2022.03 - 2024.5`` **National-level Innovation Project** **Research on Target Detection Algorithm Based on Image and Multi-sensor Information Fusion**
+> ``2022.03 - 2024.5`` **Research on Target Detection Algorithm Based on Image and Multi-sensor Information Fusion** ``National-level Innovation Project``
 > Responsible for method testing and paper writing and revision
 
-> ``2022.03 - 2023.5`` **District-level Innovation Project** **Intelligent Safe Driving Assurance System Based on Deep Learning and Internet of Things Technology**
+> ``2022.03 - 2023.5`` **Intelligent Safe Driving Assurance System Based on Deep Learning and Internet of Things Technology** ``District-level Innovation Project``
 > Responsible for project content improvement and material writing
 
 ## <i class="fas fa-award"></i> Honors & Awards
@@ -102,18 +102,18 @@ During school, joined media and social science clubs and laboratory learning pro
 ## <i class="fas fa-phone-alt"></i> Contact Me
 
 ``Email`` [wrm244@qq.com](mailto:wrm244@qq.com)
-``Phone``: [15260135211](tel:15260135211)
-``WeChat``：[wrm244](weixin://contacts/profile/wrm244)
+``Phone`` [15260135211](tel:15260135211)
+``WeChat`` [wrm244](weixin://contacts/profile/wrm244)
 
 
-<!-- ## Comments -->
+## Comments -->
 
-<!-- {% raw %}
+{% raw %}
 <script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
+        repo="wrm244/resume"
         issue-number="17"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
-{% endraw %} -->
+{% endraw %}

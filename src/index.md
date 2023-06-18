@@ -85,10 +85,10 @@ download:
 > 负责跟进学院活动，编写文章与宣传；参与传媒设计比赛
 
 ## <i class="fas fa-cubes"></i> 项目经历
-> ``2022.03 - 2024.5`` **国家级大创项目** **图像与多传感器信息融合的目标检测算法研究**
+> ``2022.03 - 2024.5``  **图像与多传感器信息融合的目标检测算法研究** ``国家级大创项目``
 > 负责方法测试与论文的誊写与修订
 
-> ``2022.03 - 2023.5`` **区级大创项目** **深度学习和物联网技术的智能安全驾驶保障系统**
+> ``2022.03 - 2023.5``  **深度学习和物联网技术的智能安全驾驶保障系统** ``区级大创项目``
 > 负责项目内容完善以及材料撰写
 
 
@@ -106,17 +106,17 @@ download:
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
 ``电子邮件`` [wrm244@qq.com](mailto:wrm244@qq.com)
-``手机联系``: [15260135211](tel:15260135211)
-``微信号``：[wrm244](weixin://contacts/profile/wrm244)
+``手机联系`` [15260135211](tel:15260135211)
+``微信号`` [wrm244](weixin://contacts/profile/wrm244)
 
-<!-- ## 评论
+## Comments -->
 
 {% raw %}
 <script src="https://utteranc.es/client.js"
         repo="wrm244/resume"
-        issue-number="18"
+        issue-number="17"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
-{% endraw %} -->
+{% endraw %}
