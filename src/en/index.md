@@ -98,6 +98,7 @@ During school, joined media and social science clubs and laboratory learning pro
 
 > ``Paper`` AcFusion: Infrared and visible image fusion base on self-attention and convolution with enhanced information extraction
 > ``Contribution`` Editing, Visualization & review
+> ``Statue``: Revision Submitted to Journal
 
 ## <i class="fas fa-phone-alt"></i> Contact Me
 
