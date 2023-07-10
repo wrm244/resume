@@ -58,10 +58,10 @@ download:
 
 ## <i class="fas fa-star"></i> 个人技能
 
-``编程``Java，Python，JavaScript，C，Shell，LaTex
-``工具`` VScode，Git，SSH，Vim，Nginx，Zotero，PS，AI
-``软硬框架`` Raspberry Pi，STM32，Linux，Nodejs，SSM
-``专业技能`` 熟悉Node、SSM等前端后端框架；熟练掌握Linux运维、Nginx处理逻辑掌握容器化与服务部署技术。熟悉PS、AI等设计与办公软件。
+``编程`` Java, Python, JavaScript, C, Shell, LaTex
+``工具`` VScode, Git, SSH, Vim, Nginx, Zotero, PS, AI
+``软硬框架`` Linux, JavaSSM, Vue, Nodejs, Raspberry Pi, STM32
+``专业技能`` 熟悉SSM, Vue, React等前端后端框架；熟练掌握Linux运维、Nginx处理逻辑掌握容器化与服务部署技术。熟悉PS、AI等设计与办公软件。
 ``语言爱好``  英语(CET-4)，喜欢探索新事物、喜欢写文章、有自己网站公众号，看书、写BUG等。
 
 ## <i class="fas fa-user-tie"></i> 校园经历
@@ -91,6 +91,31 @@ download:
 > ``2022.03 - 2023.5``  **深度学习和物联网技术的智能安全驾驶保障系统** ``区级大创项目``
 > 负责项目内容完善以及材料撰写
 
+## <i class="fab fa-github"></i> 开源贡献
+
+
+### GUEThesis
+
+#### 桂林电子科技大学本科毕业论文LATEX模板 
+
+- 注重内容、忽略排版，高效地完成毕业论文的写作
+- 源码：https://github.com/wrm244/GUEThesis
+
+### Docusaurus-Theme-Zen
+
+#### 设计美观、博客与文档一体的主题，为你提供了一个优秀的个人页面解决方案
+
+- docusaurus 框架，支持MDX和React、可扩展和定制
+- 源码：https://github.com/wrm244/docusaurus-theme-zen
+- 预览：https://wrm244.github.io/docusaurus-theme-zen/
+
+### 全球抑郁症数据大数据分析项目
+
+#### 分析全球抑郁症患者的数据，希望以可视化展示让大家重视抑郁症
+
+- 基于hadoop + spark + SpringBoot
+- 源码：https://github.com/wrm244/bigdata_depression
+- 预览：https://wrm244.github.io/depression_demo/
 
 ## <i class="fas fa-award"></i> 荣誉奖项
 

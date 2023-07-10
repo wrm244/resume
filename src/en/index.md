@@ -59,8 +59,8 @@ During school, joined media and social science clubs and laboratory learning pro
 
 ``Programming`` Java, Python, JavaScript, C, Shell, LaTex
 ``Tools`` VScode, Git, SSH, Vim, Nginx, Zotero, PS, AI
-``Software and Hardware Frameworks`` Raspberry Pi, STM32, Linux, Nodejs, SSM
-``Professional Skills`` Familiar with front-end and back-end frameworks such as Node and SSM; proficient in Linux operation and maintenance, Nginx processing logic, containerization and service deployment technology. Familiar with design and office software such as PS and AI.
+``Software and Hardware Frameworks`` Linux, JavaSSM, Vue, Nodejs, Raspberry Pi, STM32
+``Professional Skills`` Familiar with front-end and back-end frameworks such as Vue, React and SSM; proficient in Linux operation and maintenance, Nginx processing logic, containerization and service deployment technology. Familiar with design and office software such as PS and AI.
 ``Language and Hobbies`` English (CET-4), like to explore new things, like to write articles, have own website and public account, read books, write BUGs and so on.
 
 ## <i class="fas fa-user-tie"></i> Campus Experience
@@ -87,6 +87,31 @@ During school, joined media and social science clubs and laboratory learning pro
 
 > ``2022.03 - 2023.5`` **Intelligent Safe Driving Assurance System Based on Deep Learning and Internet of Things Technology** ``District-level Innovation Project``
 > Responsible for project content improvement and material writing
+
+## <i class="fab fa-github"></i> 开源贡献
+
+### GUEThesis
+
+#### 桂林电子科技大学本科毕业论文LATEX模板 
+
+- 注重内容、忽略排版，高效地完成毕业论文的写作
+- 源码：https://github.com/wrm244/GUEThesis
+
+### Docusaurus-Theme-Zen
+
+#### 设计美观、博客与文档一体的主题，为你提供了一个优秀的个人页面解决方案
+
+- docusaurus 框架，支持MDX和React、可扩展和定制
+- 源码：https://github.com/wrm244/docusaurus-theme-zen
+- 预览：https://wrm244.github.io/docusaurus-theme-zen/
+
+### 全球抑郁症数据大数据分析项目
+
+#### 分析全球抑郁症患者的数据，希望以可视化展示让大家重视抑郁症
+
+- 基于hadoop + spark + SpringBoot
+- 源码：https://github.com/wrm244/bigdata_depression
+- 预览：https://wrm244.github.io/depression_demo/
 
 ## <i class="fas fa-award"></i> Honors & Awards
 
